@@ -1,0 +1,12 @@
+
+PROJECT FINAL SUMMARY
+---------------------
+1. Proportion Analysis (Alcohol):
+   - Sample P: 0.38
+   - P-value: 0.02
+   - Decision: Reject H0
+
+2. Mean Analysis (Weight):
+   - Sample Mean: 65.4 kg
+   - P-value: 0.15
+   - Decision: Fail to reject H0
