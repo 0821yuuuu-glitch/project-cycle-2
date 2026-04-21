@@ -1,7 +1,7 @@
 # Project Cycle 2: Confidence Intervals and One-Sample Inference
 
 ### 1. Group Information
-* **Group Number**: Group 4
+* **Group Number**: Group 3
 * **Team Members**: 余曜廷, 蘇孟孜
 * **Dataset**: YRBS_2007.csv
 
